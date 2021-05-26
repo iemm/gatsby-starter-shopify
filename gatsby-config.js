@@ -18,9 +18,9 @@ module.exports = {
     {
       resolve: "gatsby-source-shopify",
       options: {
-        apiKey: process.env.SHOPIFY_API_KEY,
-        password: process.env.SHOPIFY_SHOP_PASSWORD,
-        storeUrl: process.env.GATSBY_SHOPIFY_STORE_URL,
+        apiKey: process.env.6690a69dcb52822e2cceb3a3a87389a7,
+        password: process.env.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,
+        storeUrl: process.env.hellofresh123.myshopify.com,
         shopifyConnections: ["collections"],
       },
     },
